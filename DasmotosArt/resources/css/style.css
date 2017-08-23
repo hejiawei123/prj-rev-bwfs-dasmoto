@@ -1,0 +1,45 @@
+/* Dasmoto's Arts and crafts stylesheet */ 
+
+html body {
+	margin: 0;
+	padding: 5px;
+	border: 2px solid red;
+	font-family: 'Helvetica';
+}
+
+.header {
+	background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg);
+	background-size: cover;
+	background-position: center;
+
+}
+
+h1 {
+	font-size: 100px;
+	font-weight: bold;
+	color: khaki;
+	text-align: center horizontal;
+}
+
+h2 {
+	font-size: 32px;
+	font-weight: bold;
+	color: white;
+}
+
+span {
+	font-weight: bold;
+	color: blue;
+}
+
+.beaches h2 {
+	background-color: mediumspringgreen;
+}
+
+.frames h2 {
+	background-color: lightcoral;
+}
+
+.paint h2 {
+	background-color: skyblue;
+}
